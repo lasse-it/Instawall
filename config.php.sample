@@ -1,0 +1,3 @@
+<?php
+$access_token = 'token';  //your instagram access token, you can get it from http://instagram.com/developer/authentication/
+?>
