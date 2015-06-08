@@ -1,7 +1,7 @@
 Setup
 =========================================
 
-To setup the wall edit config.php.sample, and enter your instagram api access token, then rename it to config.php, now upload it to your webserver and goto index.html. Here you need to enter your hashtag without the # in the yourtag field, then enter the number of pics to load (max 20) and click on the CSS you wan't, default is CSS 1 unless you have uploaded other CSS'es to the css folder. If you wan't another CSS you can upload it to the css folder with the name *.css, the * is a number between 1 and 20, then choose that number, at the index page. It's optimized for 1080x1920 fullscreen (F11) at 90% zoom.
+To setup the wall edit config.php.sample, and enter your instagram api access token, then rename it to config.php, now upload it to your webserver and goto index.html. Here you need to enter your hashtag without the # in the yourtag field, then enter the number of pics to load (max 20, Instagram limitation) and click on the CSS you want, default is CSS 1 unless you have uploaded other CSS'es to the css folder. If you wan't another CSS you can upload it to the css folder with the name *.css, the * is a number between 1 and 20, then choose that number, at the index page. It's optimized for 1080x1920 fullscreen (F11) at 90% zoom.
 
 CSS
 ==========================================
