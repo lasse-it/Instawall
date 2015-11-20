@@ -1,9 +1,9 @@
 <?php
-	$tag = $_GET[tag];
+	$tag = $_GET['tag'];
 	$tagup = strtoupper($tag);
-	$css = $_GET[css];
-	$amount = $_GET[amount];
-	$debug = $_GET[debug];
+	$css = $_GET['css'];
+	$amount = $_GET['amount'];
+	$debug = $_GET['debug'];
 ?>
 <html>
 	<head>
